@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### 🤙 Olá!
 <a target="_blank" href="https://discord.com/invite/uK8BUdHsV9">
   <img align="left" alt="Discord" width="22px" src="https://media.discordapp.net/attachments/821093933836271646/824009035602329630/discord-new-logo.png" />
@@ -16,6 +14,8 @@
 Olá, me chamo Lucas, mas prefiro que me chamem de <b>yariwsxz</b>! 🤭
 
 Raramente faço algo público para o Github, dando certo farei algumas coisas públicas. 💅
+
+##
 
 ### Projetos
 
