@@ -20,3 +20,4 @@ Raramente faço algo público para o Github, dando certo farei algumas coisas p�
 ### Projetos
 
 - [Drakon](), um bot para Discord! (~ainda não foi lançado 😥~)
+- [Script](https://script-bot.vercel.app/), um bot para Discord!
