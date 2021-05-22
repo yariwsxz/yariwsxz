@@ -1,23 +1,19 @@
-### 🤙 Olá!
-<a target="_blank" href="https://discord.com/invite/uK8BUdHsV9">
-  <img align="left" alt="Discord" width="22px" src="https://media.discordapp.net/attachments/821093933836271646/824009035602329630/discord-new-logo.png" />
-</a>
-<a target="_blank" href="mailto:yariwsxz@hotmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://media.discordapp.net/attachments/821093933836271646/824009013259403345/3378606541574338608-512.png?width=473&height=473" />
-</a>
-</br>
+### Howdy! 🚀
+<p align="center">
+    <img src="https://discord.c99.nl/widget/theme-4/821086275204808764.png"/>
+</p>
 
 ---
 
-<img align="left" height="220" src="https://media.discordapp.net/attachments/821093933836271646/824001480415248414/1frC0VgM2etsVCJzJrNMZTQ.png?width=473&height=473"/>
+<img align="left" height="220" src="https://media.discordapp.net/attachments/821093933836271646/845677892830101514/megacat-removebg.png?width=473&height=473"/>
 
-Olá, me chamo Lucas, mas prefiro que me chamem de <b>yariwsxz</b>! 🤭
+Hello, I'm <b>yariwsxz</b>! 🤭
 
-Raramente faço algo público para o Github, dando certo farei algumas coisas públicas. 💅
+I rarely do anything public for Github, maybe soon I will do something public. 💅
 
 ##
 
 ### Projetos
 
-- [Drakon](), um bot para Discord! (~ainda não foi lançado 😥~)
-- [Script](https://script-bot.vercel.app/), um bot para Discord!
+- [Drakon](https://discord.com/api/oauth2/authorize?client_id=822206623774801920&permissions=8&scope=bot%20applications.commands), a bot for Discord!
+- [Script](https://discord.com/oauth2/authorize?client_id=762764583793459200&permissions=8&scope=bot%20applications.commands), a bot for Discord!
