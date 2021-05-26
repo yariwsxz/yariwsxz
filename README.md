@@ -13,7 +13,7 @@ I rarely do anything public for Github, maybe soon I will do something public. ð
 
 ##
 
-### Projetos
+### Projects
 
 - [Drakon](https://discord.com/api/oauth2/authorize?client_id=822206623774801920&permissions=8&scope=bot%20applications.commands), a bot for Discord!
 - [Script](https://discord.com/oauth2/authorize?client_id=762764583793459200&permissions=8&scope=bot%20applications.commands), a bot for Discord!
